@@ -31,6 +31,10 @@ To create an **S3 bucket** in AWS and understand how **object storage** works.
 - Select your local file → e.g. `kk-test.jpg`.  
 - Click **Upload** → Done ✅
 
+  ![Screenshot](![WhatsApp Image 2025-10-20 at 12 39 05_8962c44f](https://github.com/user-attachments/assets/d6e519bf-84c0-49f1-a007-74950e8aa984)
+)
+
+
 ---
 
 ### Step 3: Access File via URL
