@@ -15,6 +15,11 @@ To create an **S3 bucket** in AWS and understand how **object storage** works.
 
 ---
 
+Download this for more precise steps
+
+[View Task Document](ELEVATE-LABS-task-1.docx)
+
+
 ## 🪣 Step-by-Step Procedure
 
 ### Step 1: Create S3 Bucket
