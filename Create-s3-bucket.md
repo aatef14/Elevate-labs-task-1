@@ -65,3 +65,8 @@ If access denied → add a bucket policy 👇
     }
   ]
 }
+
+### Example of successful Access
+
+ ![Screenshot](![WhatsApp Image 2025-10-20 at 13 00 27_e279d356](https://github.com/user-attachments/assets/1127c2f0-588f-492d-a99e-30e6233045e5)
+)
