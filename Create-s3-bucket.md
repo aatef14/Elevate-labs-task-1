@@ -15,7 +15,7 @@ To create an **S3 bucket** in AWS and understand how **object storage** works.
 
 ---
 
-Download this for more precise steps
+### Download this for more precise steps
 
 [View Task Document](ELEVATE-LABS-task-1.docx)
 
@@ -65,8 +65,7 @@ If access denied → add a bucket policy 👇
     }
   ]
 }
+```
+### EXAMPLE of successfull object access
 
-### Example of successful Access
-
- ![Screenshot](![WhatsApp Image 2025-10-20 at 13 00 27_e279d356](https://github.com/user-attachments/assets/1127c2f0-588f-492d-a99e-30e6233045e5)
-)
+![WhatsApp Image 2025-10-20 at 13 00 27_e279d356](https://github.com/user-attachments/assets/3b9b476c-5d86-43f0-bde4-704dca094aa6)
